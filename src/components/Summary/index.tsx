@@ -1,4 +1,4 @@
-import { Container } from "./styled";
+import { Container } from "./styles";
 import incomeImg from '../../assets/income.png'
 import outcomeImg from '../../assets/outcome.png'
 import totalImg from '../../assets/logo.png'
